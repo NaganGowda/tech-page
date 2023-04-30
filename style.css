@@ -1,0 +1,51 @@
+.bg-container {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMUC1Z2i8f1v357o5ns0NtSoO4ybImwNZCkQ&usqp=CAU");
+  background-size: cover;
+  height: 100vh;
+}
+
+.card {
+  background-color: #ffffff;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  padding: 15px;
+  font-family: "Bree Serif";
+}
+
+.card-heading {
+  color: #5752ab;
+  text-align: center;
+}
+
+.card-description {
+  color: #323f4b;
+  text-align: center;
+}
+
+.button1 {
+  color: #171f46;
+  border-color: #d7dfe9;
+  background-color: #ffffff;
+  font-size: 13px;
+  padding: 10px;
+  border-radius: 10px;
+  height: 40px;
+  width: 120px;
+  margin-right: 10px;
+  margin-left: 10px;
+  font-family: "Roboto";
+}
+
+.button2 {
+  color: #ffffff;
+  border-color: #d7dfe9;
+  background-color: #5752ab;
+  font-size: 13px;
+  padding: 10px;
+  border-radius: 10px;
+  height: 40px;
+  width: 120px;
+  margin-right: 10px;
+  margin-left: 10px;
+  font-family: "Roboto";
+}
